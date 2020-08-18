@@ -37,9 +37,12 @@
 <!-- <details> -->
   <!-- <summary>:zap: Github Stats</summary> -->
 <div>
-### :zap: Github Stats
+<h3>
+:zap: Github Stats
 
- <img align="block" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammadsalif&show_icons=true&hide_border=true" />
+</h3>
+
+ <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammadsalif&show_icons=true&hide_border=true" />
 
 <!-- </details> -->
 </div>
