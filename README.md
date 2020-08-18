@@ -34,19 +34,19 @@
 
 ---
 
-<details>
+<!-- <details> -->
   <!-- <summary>:zap: Github Stats</summary> -->
 
-  <summary>:zap: Github Stats</summary>
+###:zap: Github Stats
 
- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammadsalif&show_icons=true&hide_border=true" />
+ <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammadsalif&show_icons=true&hide_border=true" />
 
 <br />
 <br />
 
 ---
 
-</details>
+<!-- </details> -->
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
