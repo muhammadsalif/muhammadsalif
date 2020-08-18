@@ -48,6 +48,7 @@
 </div>
 <br />
 
+<div>
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -64,7 +65,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
+</div>
 [instagram]: https://www.instagram.com/muhammad_salif/
 [linkedin]: https://www.linkedin.com/in/muhammadsalif/
 [facebook]: https://www.facebook.com/muhammadsalif07/
