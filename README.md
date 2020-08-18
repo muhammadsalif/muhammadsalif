@@ -39,7 +39,7 @@
 
 ### :zap: Github Stats
 
- <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadsalif&show_icons=true&theme=dark" />
+ <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadsalif&show_icons=true&theme=gruvbox" />
 
 ---
 
