@@ -34,21 +34,16 @@
 
 ---
 
-<!-- <details> -->
+<details>
   <!-- <summary>:zap: Github Stats</summary> -->
-<div>
-<h3>
-:zap: Github Stats
 
-</h3>
+  <summary>:zap: Github Stats</summary>
 
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muhammadsalif&show_icons=true&hide_border=true" />
 
-<!-- </details> -->
-</div>
+</details>
 <br />
 
-<div>
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -65,7 +60,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-</div>
+
 [instagram]: https://www.instagram.com/muhammad_salif/
 [linkedin]: https://www.linkedin.com/in/muhammadsalif/
 [facebook]: https://www.facebook.com/muhammadsalif07/
