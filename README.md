@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
 
-<br />
-
 ---
 
 ### Connect with me:
