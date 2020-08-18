@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Learner!
 
 - 🔭 I’m currently working on a open source projects
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
