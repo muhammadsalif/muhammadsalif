@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="muhammadsalif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
