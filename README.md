@@ -43,7 +43,7 @@
 
 ### :zap: Github Stats
 
- <img align="center" alt="Muhammad Salif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadsalif&show_icons=true&theme=gruvbox" />
+ <img align="center" alt="Muhammad Salif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammadsalif&hide=stars&show_icons=true&theme=gruvbox" />
 
 ---
 
