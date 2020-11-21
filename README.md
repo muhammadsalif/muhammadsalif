@@ -47,9 +47,7 @@
 
 ---
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalif)](https://github.com/muhammadsalif/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalif&layout=compact)](https://github.com/muhammadsalif/github-readme-stats)
 <!-- </details> -->
 
 <details>
