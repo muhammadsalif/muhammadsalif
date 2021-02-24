@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
 
-### Hey there, I'm Muhammad Salif 👋
+### Hey there, I'm MS <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
+
 
 ## I'm a Student, Developer, and Learner!
 
