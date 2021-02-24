@@ -60,7 +60,7 @@
 
 2. 🗣 Commited on [#e108ecf](https://github.com/muhammadsalif/ECP-Business-App-React/commit/e108ecfa0dd8a2661e0bee738723f271286f94f3) in [https://github.com/muhammadsalif/ECP-Business-App-React](https://github.com/muhammadsalif/ECP-Business-App-React)
 
-3. 💪 500+ contribution in the last year | Growing faster 🚀.
+3. 💪 1000+ contribution in the last year | Growing faster 🚀.
 <!-- 2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
