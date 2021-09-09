@@ -1,6 +1,9 @@
 
 ### Hey there, I'm MS <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
 
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
 
 ## I'm a Student, Developer, and Learner!
 
