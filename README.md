@@ -10,8 +10,10 @@
 - 🔭 I’m currently working on a open source projects
 - 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 ---
 
