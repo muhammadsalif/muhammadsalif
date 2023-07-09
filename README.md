@@ -5,13 +5,13 @@
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 
-## I'm a Student, Developer, and Learner!
+## I'm a Software Engineer, Developer, and Learner!
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on a open source projects
+- 🔭 I’m currently working on an open source projects
 - 🌱 I’m currently learning everything 😃
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
 
 
